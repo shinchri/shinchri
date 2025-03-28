@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris.
 - I am a full-stack developer.
 - 👀 I’m always interested in learning new things: frameworks, languages, tools, etc.
-- 🌱 I’m currently building Chatter, slack-like application with Django, React, Channels.
+- 🌱 I’m currently building Chatter, slack-like application with Django, React, Channels, and TailwindCSS.
 - 📫 You can connect with me on linkedin: https://www.linkedin.com/in/shinchri/
 
 <!---
