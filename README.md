@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris.
 - I am a full-stack developer.
-- 👀 I’m interested in learning new frameworks used for web development. I am also interested in Machine Learning and cloud computing.
-- 🌱 I’m currently learning React and Node/Express.
+- 👀 I’m always interested in learning new things: frameworks, languages, tools, etc.
+- 🌱 I’m currently building Chatter, slack-like application with Django, React, Channels.
 - 📫 You can connect with me on linkedin: https://www.linkedin.com/in/shinchri/
 
 <!---
